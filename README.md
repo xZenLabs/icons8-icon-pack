@@ -48,9 +48,13 @@ font glyphs continue to use their fonts.
 See [icon-sources.csv](icon-sources.csv) for every source filename, pinned upstream
 link, and adaptation. The pack contains no Solar SVG artwork.
 
-## Original icon previews
+## Icon overviews
+
+### Icons8 Colour
 
 ![Icons8 Colour source icons](Icons8%20Colour/Full%20Icon%20Overview%20%28Colour%29.png)
+
+### Icons8 Mono
 
 ![Icons8 Mono source icons](Icons8%20Mono/Full%20Icon%20Overview%20%28Mono%29.png)
 
@@ -70,6 +74,10 @@ that folder. Select another pack, or disable Custom icons, to restore default ar
 See the [ZenOS icon pack guide](https://github.com/xZenLabs/zen-os/blob/main/docs/icon-packs.md).
 
 ## Build
+
+Each pack manifest includes `"color": true` for colour artwork or
+`"color": false` for monochrome artwork. Per-style values are retained in the
+release ZIPs when building the whole repository.
 
 ```sh
 python3 -m venv .venv

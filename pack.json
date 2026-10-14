@@ -3,5 +3,6 @@
   "id": "zen-icons8-icons",
   "name": "Icons8 Icons for ZenOS",
   "version": "1.0.0",
-  "author": "Icons8; adapted and packaged by xZenLabs"
+  "author": "Icons8; adapted and packaged by xZenLabs",
+  "color": true
 }
