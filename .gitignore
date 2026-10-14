@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Zen icon pack build output
+.DS_Store
+._*
+*.zip
+.venv/
+dist
