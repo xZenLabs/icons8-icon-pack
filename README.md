@@ -5,6 +5,16 @@
 and packaged by [ZenLabs](https://github.com/xZenLabs) for
 [ZenOS](https://github.com/xZenLabs/zen-os) and KOReader.
 
+## Icon overviews
+
+### Icons8 Colour
+
+![Icons8 Colour: selected KOReader controls, library tabs, and common actions](.github/overview-icons8-colour.png)
+
+### Icons8 Mono
+
+![Icons8 Mono: selected KOReader controls, library tabs, and common actions](.github/overview-icons8-mono.png)
+
 | Pack | Style | Release asset |
 |---|---|---|
 | **Icons8 Colour** | Original multicolour Flat Color artwork, with supplementary UI symbols | `zen-icons8-colour.zip` |
@@ -12,7 +22,7 @@ and packaged by [ZenLabs](https://github.com/xZenLabs) for
 
 Colour has **159 source SVGs** and Mono has **160**; each exports **246 icon lookup filenames**.
 Both packs theme all **23 built-in choices under Navbar → Tabs → Add → Tab**.
-The three source folders follow the Solar repository's layout: `Pack Icons`,
+The three source folders follow the Zen icon pack template's layout: `Pack Icons`,
 `KOReader Icons`, and `Supplementary Icons`. KOReader icons retain KOReader's
 lookup names, such as `appbar.settings`, `book.opened`, and `wifi.open.100`.
 Zen icons use their lookup names directly. Python adds aliases for shared artwork
@@ -40,23 +50,13 @@ The Mono pack uses native outline icons where available; remaining counterparts
 use outlined geometry. The Colour pack retains original Flat Color SVGs where
 appropriate and supplements missing UI symbols with coloured Icons8 outlines.
 
-The free source sets do not cover every Solar design. Cloud, Zen mode, streak,
+The free source sets do not cover every application control. Cloud, Zen mode, streak,
 chess, Connections, Notion, RSS, and unmatched KOReader status glyphs use the
 bundled ZenOS or KOReader artwork. Battery SVGs theme icon lookups; inline battery
 font glyphs continue to use their fonts.
 
 See [icon-sources.csv](icon-sources.csv) for every source filename, pinned upstream
-link, and adaptation. The pack contains no Solar SVG artwork.
-
-## Icon overviews
-
-### Icons8 Colour
-
-![Icons8 Colour source icons](Icons8%20Colour/Full%20Icon%20Overview%20%28Colour%29.png)
-
-### Icons8 Mono
-
-![Icons8 Mono source icons](Icons8%20Mono/Full%20Icon%20Overview%20%28Mono%29.png)
+link, and adaptation.
 
 ## Install
 
@@ -89,7 +89,7 @@ python3 scripts/build-zen-packs.py
 
 The resulting ZIPs are in `dist/`. The Python builder, archive validation,
 SimpleUI filename conversion, and optional legacy `pack.lua` parser come from
-[the Solar ZenOS repository](https://github.com/xZenLabs/solariconpack-zen).
+[Zen icon pack template](https://github.com/xZenLabs/icon-pack-template).
 This pack has no Lua scripts. Existing source filenames take precedence over
 build-time aliases. Missing icons remain available through ZenOS's normal fallback.
 
