@@ -7,6 +7,8 @@ Source sets:
 Both source repositories offer use under MIT. This pack uses that licence.
 Original colours and native outline paths are retained where suitable.
 Adaptations and supplementary designs are recorded in icon-sources.csv.
+ZenPM UI symbols use pinned Icons8 artwork or matching supplementary designs.
+Shared lookup names are generated as aliases by the Python build.
 Supplementary artwork copyright (c) 2026 xZenLabs, also under MIT.
 No Solar SVG artwork is included.
 Repository Python code remains under the root AGPL-3.0 licence.

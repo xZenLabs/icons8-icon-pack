@@ -268,3 +268,53 @@ Icons8 Mono,rotation.90CCW.svg,https://github.com/icons8/windows-10-icons/blob/b
 Icons8 Mono,rotation.P.90CCW.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 270 degrees for orientation selector.
 Icons8 Mono,rotation.L.90CCW.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 0 degrees for orientation selector.
 Icons8 Mono,tab_translate.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/translation.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,allow_updates.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Colour,browser.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/external.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,debug.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Colour,disable.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Colour,download.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/download.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,enable.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/start.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,filter.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/empty_filter.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,games.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/controller.svg,Recoloured native Windows 10 outline for the Colour pack; renamed for ZenPM lookup.
+Icons8 Colour,ignore_updates.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary bell with a diagonal mute stroke; Icons8 palette and outline weight.
+Icons8 Colour,kindleforge.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Colour,media.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/clapperboard.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,packages.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/package.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,patch.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Colour,productivity.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/todo_list.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,qrcode.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/qr_code.svg,Recoloured native Windows 10 outline for the Colour pack; renamed for ZenPM lookup.
+Icons8 Colour,scan_plugins.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/inspection.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,sort.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/generic_sorting_asc.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,sort_desc.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/generic_sorting_desc.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,theme.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/brush.svg,Recoloured native Windows 10 outline for the Colour pack; renamed for ZenPM lookup.
+Icons8 Colour,uninstall.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/full_trash.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,upgrade.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/upload.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,verified.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/approval.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,wallpaper.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/gallery.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,zen.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Mono,allow_updates.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Mono,browser.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/export.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,debug.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Mono,disable.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Mono,download.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/download.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,enable.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Mono,filter.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/filter.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,games.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/controller.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,ignore_updates.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary bell with a diagonal mute stroke; Icons8 palette and outline weight.
+Icons8 Mono,kindleforge.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Mono,media.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/film.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,packages.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/box.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,patch.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Mono,productivity.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/clipboard.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,qrcode.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/qr_code.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,scan_plugins.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/barcode.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,sort.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/generic_sorting.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,sort_desc.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/generic_sorting_2.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,theme.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/brush.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,uninstall.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/trash.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,upgrade.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/upload.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,verified.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/checked_2.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,wallpaper.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/picture.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,zen.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Colour,remove.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/minus.svg,"Original SVG, renamed for ZenPM removal lookup."
+Icons8 Mono,remove.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/minus.svg,"Original SVG, renamed for ZenPM removal lookup."

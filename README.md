@@ -10,7 +10,7 @@ and packaged by [ZenLabs](https://github.com/xZenLabs) for
 | **Icons8 Colour** | Original multicolour Flat Color artwork, with supplementary UI symbols | `zen-icons8-colour.zip` |
 | **Icons8 Mono** | Native Windows 10 outlines, with matching outline adaptations | `zen-icons8-mono.zip` |
 
-Colour has **134 source SVGs** and Mono has **135**; each exports **189 icon lookup filenames**.
+Colour has **159 source SVGs** and Mono has **160**; each exports **246 icon lookup filenames**.
 Both packs theme all **23 built-in choices under Navbar → Tabs → Add → Tab**.
 The three source folders follow the Solar repository's layout: `Pack Icons`,
 `KOReader Icons`, and `Supplementary Icons`. KOReader icons retain KOReader's
@@ -19,6 +19,13 @@ Zen icons use their lookup names directly. Python adds aliases for shared artwor
 without requiring duplicate source files or Lua manifests.
 
 ## Included icons
+
+ZenPM's KOReader frontend is covered: all **39 bundled SVG names** and
+**33 inline menu names** (**63 unique lookups**). Navigation, all 12 categories,
+package and queue actions, verification badges, source icons, search, filtering,
+sorting and settings use matching artwork. ZenPM must support the selected ZenOS
+icon pack for these replacements to appear. Downloaded package logos and previews
+retain their own artwork.
 
 Library uses upright books on a shelf; Series uses a horizontal stack of books.
 News, tags, folders, manga, authors, collections, reading history, vocabulary,
@@ -41,7 +48,7 @@ font glyphs continue to use their fonts.
 See [icon-sources.csv](icon-sources.csv) for every source filename, pinned upstream
 link, and adaptation. The pack contains no Solar SVG artwork.
 
-## Previews
+## Original icon previews
 
 ![Icons8 Colour source icons](Icons8%20Colour/Full%20Icon%20Overview%20%28Colour%29.png)
 
