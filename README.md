@@ -20,13 +20,10 @@ and packaged by [ZenLabs](https://github.com/xZenLabs) for
 | **Icons8 Colour** | Original multicolour Flat Color artwork, with supplementary UI symbols | `zen-icons8-colour.zip` |
 | **Icons8 Mono** | Native Windows 10 outlines, with matching outline adaptations | `zen-icons8-mono.zip` |
 
-Colour has **159 source SVGs** and Mono has **160**; each exports **246 icon lookup filenames**.
+Each style has **244 editable SVGs** using its exact runtime lookup filenames.
 Both packs theme all **23 built-in choices under Navbar → Tabs → Add → Tab**.
-The three source folders follow the Zen icon pack template's layout: `Pack Icons`,
-`KOReader Icons`, and `Supplementary Icons`. KOReader icons retain KOReader's
-lookup names, such as `appbar.settings`, `book.opened`, and `wifi.open.100`.
-Zen icons use their lookup names directly. Python adds aliases for shared artwork
-without requiring duplicate source files or Lua manifests.
+KOReader and Zen icons retain their exact lookup names. Shared artwork under
+different lookup names is stored as editable source SVGs. No Lua manifests are needed.
 
 ## Included icons
 
@@ -73,6 +70,38 @@ folder into `koreader/icons/zen/`. Keep `pack.json` and the SVG files directly i
 that folder. Select another pack, or disable Custom icons, to restore default artwork.
 See the [ZenOS icon pack guide](https://github.com/xZenLabs/zen-os/blob/main/docs/icon-packs.md).
 
+## Source layout
+
+Each style keeps category folders directly beside `pack.json`.
+Categories without replacement artwork can be absent:
+
+```text
+<Style>/
+├── pack.json
+├── navbar/
+├── controls/                 # Quick settings and Zen controls
+├── launcher/
+├── zenpm/                    # Includes verification shields
+├── lookup/
+├── menus/                    # Zen menu entry points
+├── reader/                   # Page browser: TOC, vocabulary, view modes
+├── device/
+└── koreader/                 # Stock KOReader icons, including plus/info
+```
+
+[ICON-LIST.md](ICON-LIST.md) lists the filenames by category. Page-browser TOC, vocabulary-builder,
+and view icons belong in `reader/`. All stock KOReader icons, including `appbar.*`,
+the Aa font button, plus/info, bookmarks, and `book_open`, belong in `koreader/`. Quick settings
+belong in `controls/`; `tab_left` and `tab_right` belong in `navbar/`.
+Shared lookup names appear only once per style;
+different lookup names can be edited independently.
+
+Legacy SimpleUI `qa_group` and `qa_plugin` files are omitted. ZenPM uses
+`plugin.svg`; its verification shields belong in `zenpm/`.
+The builder flattens the categories into the pack root in release ZIPs,
+so installed lookup names and artwork remain unchanged apart from the two
+obsolete SimpleUI names. Missing icons keep their normal bundled fallbacks.
+
 ## Build
 
 Each pack manifest includes `"color": true` for colour artwork or
@@ -91,7 +120,7 @@ The resulting ZIPs are in `dist/`. The Python builder, archive validation,
 SimpleUI filename conversion, and optional legacy `pack.lua` parser come from
 [Zen icon pack template](https://github.com/xZenLabs/icon-pack-template).
 This pack has no Lua scripts. Existing source filenames take precedence over
-build-time aliases. Missing icons remain available through ZenOS's normal fallback.
+editable lookup aliases. Missing icons remain available through ZenOS's normal fallback.
 
 Build one style with `python3 scripts/build-zen-packs.py "Icons8 Colour"`, or
 pass `"Icons8 Mono"`. Use `--output` to choose an output folder and `--version`

@@ -3,6 +3,10 @@ Icons8 Colour,align.center.svg,https://github.com/icons8/windows-10-icons/blob/b
 Icons8 Colour,align.justify.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/align_justify.svg,Recoloured native outline glyph for Colour pack.
 Icons8 Colour,align.left.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/align_left.svg,Recoloured native outline glyph for Colour pack.
 Icons8 Colour,align.right.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/align_right.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,allow_updates.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Colour,annotations_viewer.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/comments.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,app_launcher.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/grid.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,app_menu.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/menu.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,appbar.contrast.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/last_quarter.svg,Recoloured native outline glyph for Colour pack.
 Icons8 Colour,appbar.crop.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/crop.svg,Recoloured native outline glyph for Colour pack.
 Icons8 Colour,appbar.filebrowser.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/file.svg,"Original SVG, renamed for icon lookup."
@@ -16,130 +20,241 @@ Icons8 Colour,appbar.settings.svg,https://github.com/icons8/flat-color-icons/blo
 Icons8 Colour,appbar.textsize.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/text_height.svg,Recoloured native outline glyph for Colour pack.
 Icons8 Colour,appbar.tools.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/services.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,appbar.typeset.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/news.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,archive.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/archive.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,avatar.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/businessman.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,back.top.rtl.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/level_up.svg,Mirrored for right-to-left back navigation.
 Icons8 Colour,back.top.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/level_up.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,backup.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/data_backup.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,battery.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/full_battery.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,battery_charging.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/charge_battery.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,battery_empty.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/empty_battery.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,battery_full.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/full_battery.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,battery_half.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/middle_battery.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,battery_high.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/high_battery.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,battery_low.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/low_battery.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,book.opened.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/reading.svg,Extracted open book; removed reader and centred pages.
+Icons8 Colour,book_closed.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Removed contact symbol; added page lines and outline counterpart.
+Icons8 Colour,book_open.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/reading.svg,Extracted open book; removed reader and centred pages.
 Icons8 Colour,bookmark.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/bookmark.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,bookshelf.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into three upright books on a shelf.
+Icons8 Colour,brightness.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/idea.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,browser.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/external.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,calculator.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/calculator.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,calendar.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/planner.svg,Original colour planner; matching outlined calendar adaptation.
+Icons8 Colour,calendar_view.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/calendar.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,cancel.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/cancel.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,categories.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/grid.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,check.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/checkmark.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,checkmark.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/checkmark.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,chevron.first.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/double_left.svg,Recoloured native outline glyph for Colour pack.
 Icons8 Colour,chevron.last.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/double_right.svg,Recoloured native outline glyph for Colour pack.
 Icons8 Colour,chevron.left.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/chevron_left.svg,Recoloured native outline glyph for Colour pack.
 Icons8 Colour,chevron.right.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/chevron_right.svg,Recoloured native outline glyph for Colour pack.
 Icons8 Colour,chevron.up.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/chevron_up.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,clear.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/cancel.svg,Extracted and enlarged native X; removed enclosing cancellation circle.
 Icons8 Colour,close.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/cancel.svg,Extracted and enlarged native X; removed enclosing cancellation circle.
+Icons8 Colour,close_light.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/cancel.svg,Extracted and enlarged native X; removed enclosing cancellation circle.
+Icons8 Colour,coll_back.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/level_up.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,column.one.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary page-column layout.
+Icons8 Colour,column.three.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary page-column layout.
+Icons8 Colour,column.two.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary page-column layout.
 Icons8 Colour,control.collapse.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/collapse.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,control.expand.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/expand.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,cre.render.reload.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/refresh.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,edit.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/signature.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,home.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/home.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,info.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/info.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,move.down.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/arrows_long_down.svg,Recoloured native outline glyph for Colour pack.
-Icons8 Colour,move.up.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/arrows_long_up.svg,Recoloured native outline glyph for Colour pack.
-Icons8 Colour,notice-question.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/questions.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,notice-warning.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/high_priority.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,plus.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/plus.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,zoom.page.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/expand.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,zoom.row.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/resize_horizontal.svg,Recoloured native outline glyph for Colour pack.
-Icons8 Colour,zoom.column.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/resize_vertical.svg,Recoloured native outline glyph for Colour pack.
-Icons8 Colour,folder.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/folder.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,lightbulb.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/idea.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,quick_exit.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/shutdown.svg,Recoloured native outline glyph for Colour pack.
-Icons8 Colour,quick_nightmode.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/moon.svg,Recoloured native outline glyph for Colour pack.
-Icons8 Colour,recent.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/clock.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,tab_authors.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/business_contact.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,tab_collections.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/filing_cabinet.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,tab_history.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/overtime.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,annotations_viewer.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/comments.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,app_launcher.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/grid.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,archive.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/archive.svg,Recoloured native outline glyph for Colour pack.
-Icons8 Colour,avatar.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/businessman.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,backup.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/data_backup.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,calculator.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/calculator.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,calendar_view.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/calendar.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,coverflow.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/stack_of_photos.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,cpu.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/electronics.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,cre.render.reload.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/refresh.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,database.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/database.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,date.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/planner.svg,Original colour planner; matching outlined calendar adaptation.
+Icons8 Colour,debug.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Colour,details.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/info.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,disable.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Colour,discover.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/globe.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,downgrade.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/download.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,download.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/download.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,downloads.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/download.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,edit.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/signature.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,education.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/graduation_cap.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,enable.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/start.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,exit.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/cancel.svg,Extracted and enlarged native X; removed enclosing cancellation circle.
+Icons8 Colour,filter.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/empty_filter.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,folder.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/folder.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,folder_open.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/opened_folder.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,fonts.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/text_height.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,games.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/controller.svg,Recoloured native Windows 10 outline for the Colour pack; renamed for ZenPM lookup.
 Icons8 Colour,globe.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/globe.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,grid.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/grid.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,grid_slide.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/template.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,home.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/home.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,homescreen.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/home.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,icon_packs.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/grid.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,ignore_updates.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary bell with a diagonal mute stroke; Icons8 palette and outline weight.
+Icons8 Colour,info.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/info.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,kindleforge.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Colour,large_chevron_up.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/chevron_up.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,library.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into three upright books on a shelf.
+Icons8 Colour,lightbulb.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/idea.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,lightning.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/flash_on.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,lookup.ai.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/assistant.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,lookup.dictionary.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Removed contact symbol; added page lines and outline counterpart.
+Icons8 Colour,lookup.highlight.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/signature.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,lookup.search.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/search.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,lookup.vocab.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with letter A.
+Icons8 Colour,lookup.vocab_remove.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with minus sign.
+Icons8 Colour,lookup_ai.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/assistant.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,lookup_dictionary.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Removed contact symbol; added page lines and outline counterpart.
 Icons8 Colour,lookup_highlight.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/signature.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,lookup_search.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/search.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,lookup_vocab.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with letter A.
+Icons8 Colour,lookup_vocab_remove.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with minus sign.
+Icons8 Colour,media.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/clapperboard.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,more_vertical.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary vertical three-dot menu.
+Icons8 Colour,move.down.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/arrows_long_down.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,move.up.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/arrows_long_up.svg,Recoloured native outline glyph for Colour pack.
 Icons8 Colour,network.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/org_unit.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,notice-info.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/info.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,notice-question.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/questions.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,notice-warning.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/high_priority.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,open_box.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/package.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,packages.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/package.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,patch.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Colour,plugin.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/puzzle.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,plus.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/plus.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,productivity.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/todo_list.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,qrcode.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/qr_code.svg,Recoloured native Windows 10 outline for the Colour pack; renamed for ZenPM lookup.
 Icons8 Colour,quick_aa.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/assistant.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,quick_battery.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/full_battery.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,quick_bluetooth.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Bluetooth symbol.
+Icons8 Colour,quick_calibre.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into three upright books on a shelf.
+Icons8 Colour,quick_calibre_dark.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into three upright books on a shelf.
+Icons8 Colour,quick_crossword.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary crossword grid.
+Icons8 Colour,quick_exit.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/shutdown.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,quick_filebrowser.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/folder.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,quick_incognito.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/spy.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,quick_localsend.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/share.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,quick_lockdown.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/lock.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,quick_nightmode.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/moon.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,quick_opds.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into three upright books on a shelf.
 Icons8 Colour,quick_puzzle.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/puzzle.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,quick_restart.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/refresh.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,quick_rotate.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rotate_to_landscape.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,quick_screenshot.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/camera.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,quick_search.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/search.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,quick_sleep.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/bed.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,quick_stats_calendar.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/planner.svg,Original colour planner; matching outlined calendar adaptation.
+Icons8 Colour,quick_stats_progress.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/line_chart.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,quick_sync.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/synchronize.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,quick_usb.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/usb.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,quick_wifi.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
+Icons8 Colour,quick_zlib.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into three upright books on a shelf.
+Icons8 Colour,quicksettings.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary sliders using the Icons8 palette and outline weight.
+Icons8 Colour,random_document.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary shuffle arrows.
+Icons8 Colour,recent.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/clock.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,records.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/data_sheet.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,reference.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Removed contact symbol; added page lines and outline counterpart.
+Icons8 Colour,refresh.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/refresh.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,reinstall.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/refresh.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,remove.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/minus.svg,"Original SVG, renamed for ZenPM removal lookup."
+Icons8 Colour,remove_queue.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/minus.svg,"Original SVG, renamed for ZenPM removal lookup."
 Icons8 Colour,restart.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/refresh.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,rotation.0UR.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 0 degrees for orientation selector.
+Icons8 Colour,rotation.180UD.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 180 degrees for orientation selector.
+Icons8 Colour,rotation.90CCW.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 270 degrees for orientation selector.
+Icons8 Colour,rotation.90CW.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 90 degrees for orientation selector.
+Icons8 Colour,rotation.L.0UR.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 90 degrees for orientation selector.
+Icons8 Colour,rotation.L.180UD.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 270 degrees for orientation selector.
+Icons8 Colour,rotation.L.90CCW.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 0 degrees for orientation selector.
+Icons8 Colour,rotation.L.90CW.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 180 degrees for orientation selector.
+Icons8 Colour,rotation.P.0UR.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 0 degrees for orientation selector.
+Icons8 Colour,rotation.P.180UD.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 180 degrees for orientation selector.
+Icons8 Colour,rotation.P.90CCW.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 270 degrees for orientation selector.
+Icons8 Colour,rotation.P.90CW.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 90 degrees for orientation selector.
+Icons8 Colour,scan_plugins.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/inspection.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,screensaver.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/bed.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,search.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/search.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,settings.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/settings.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,settings_advanced.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary sliders using the Icons8 palette and outline weight.
+Icons8 Colour,settings_bug.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
 Icons8 Colour,share.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/share.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,skip_left.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/previous.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,skip_right.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/next.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,sleep.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/bed.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,sort.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/generic_sorting_asc.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,sort_asc.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/generic_sorting_asc.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,sort_desc.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/generic_sorting_desc.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,sources.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/org_unit.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,star.empty.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted star; outlined at full icon size.
+Icons8 Colour,star.filled.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted and enlarged star.
+Icons8 Colour,star.full.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted and enlarged star.
+Icons8 Colour,star.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted star; outlined at full icon size.
+Icons8 Colour,star.white.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted star with white fill.
+Icons8 Colour,sync_off.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary bell with a diagonal mute stroke; Icons8 palette and outline weight.
+Icons8 Colour,tab_authors.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/business_contact.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,tab_books.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into three upright books on a shelf.
+Icons8 Colour,tab_collections.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/filing_cabinet.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,tab_continue.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/reading.svg,Extracted open book; removed reader and centred pages.
+Icons8 Colour,tab_exit.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/shutdown.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,tab_favorites.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted star; outlined at full icon size.
+Icons8 Colour,tab_filebrowser.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/file.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,tab_fm_settings.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/file.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,tab_folder.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/folder.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,tab_history.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/overtime.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,tab_left.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/chevron_left.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,tab_manga.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with comic panels.
 Icons8 Colour,tab_news.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/news.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,tab_right.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/chevron_right.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,tab_series.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into a horizontal stack of three books.
+Icons8 Colour,tab_stats.2.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/line_chart.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,tab_stats.old.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/line_chart.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,tab_stats.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/line_chart.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,tab_tags.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/price_tag.svg,Recoloured native outline tag orange.
+Icons8 Colour,tab_to_be_read.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/bookmark.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,tab_tools.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/services.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,tab_translate.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/globe.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,tab_vocab.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with letter A.
 Icons8 Colour,tablet.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,terminal.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/command_line.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,theme.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/brush.svg,Recoloured native Windows 10 outline for the Colour pack; renamed for ZenPM lookup.
+Icons8 Colour,time.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/clock.svg,"Original SVG, renamed for icon lookup."
 Icons8 Colour,timer.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/alarm_clock.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,title.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/text_height.svg,Recoloured native outline glyph for Colour pack.
 Icons8 Colour,toc.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/list.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,uninstall.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/full_trash.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,unverified.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/high_priority.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,update.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/refresh.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,upgrade.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/upload.svg,"Original SVG, renamed for ZenPM lookup."
 Icons8 Colour,usb.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/usb.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,book.opened.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/reading.svg,Extracted open book; removed reader and centred pages.
-Icons8 Colour,book_closed.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Removed contact symbol; added page lines and outline counterpart.
-Icons8 Colour,library.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into three upright books on a shelf.
-Icons8 Colour,tab_series.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into a horizontal stack of three books.
-Icons8 Colour,quicksettings.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary sliders using the Icons8 palette and outline weight.
-Icons8 Colour,quick_stats_calendar.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/planner.svg,Original colour planner; matching outlined calendar adaptation.
-Icons8 Colour,tab_manga.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with comic panels.
-Icons8 Colour,tab_vocab.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with letter A.
-Icons8 Colour,lookup_vocab_remove.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with minus sign.
-Icons8 Colour,star.empty.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted star; outlined at full icon size.
-Icons8 Colour,star.full.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted and enlarged star.
-Icons8 Colour,star.white.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted star with white fill.
-Icons8 Colour,battery_empty.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/empty_battery.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,battery_low.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/low_battery.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,battery_half.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/middle_battery.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,battery_high.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/high_battery.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,battery_full.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/full_battery.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,battery_charging.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/charge_battery.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,utility.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/services.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,verified.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/approval.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,wallabag.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/bookmark.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,wallpaper.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/gallery.svg,"Original SVG, renamed for ZenPM lookup."
 Icons8 Colour,wifi.open.0.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
+Icons8 Colour,wifi.open.100.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
 Icons8 Colour,wifi.open.25.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
 Icons8 Colour,wifi.open.50.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
 Icons8 Colour,wifi.open.75.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
-Icons8 Colour,wifi.open.100.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
 Icons8 Colour,wifi.secure.0.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
+Icons8 Colour,wifi.secure.100.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
 Icons8 Colour,wifi.secure.25.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
 Icons8 Colour,wifi.secure.50.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
 Icons8 Colour,wifi.secure.75.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
-Icons8 Colour,wifi.secure.100.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
-Icons8 Colour,column.one.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary page-column layout.
-Icons8 Colour,column.two.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary page-column layout.
-Icons8 Colour,column.three.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary page-column layout.
-Icons8 Colour,more_vertical.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary vertical three-dot menu.
-Icons8 Colour,tab_tags.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/price_tag.svg,Recoloured native outline tag orange.
-Icons8 Colour,random_document.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary shuffle arrows.
-Icons8 Colour,quick_bluetooth.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Bluetooth symbol.
-Icons8 Colour,quick_crossword.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary crossword grid.
-Icons8 Colour,back.top.rtl.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/level_up.svg,Mirrored for right-to-left back navigation.
-Icons8 Colour,rotation.0UR.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 0 degrees for orientation selector.
-Icons8 Colour,rotation.P.0UR.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 0 degrees for orientation selector.
-Icons8 Colour,rotation.L.0UR.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 90 degrees for orientation selector.
-Icons8 Colour,rotation.90CW.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 90 degrees for orientation selector.
-Icons8 Colour,rotation.P.90CW.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 90 degrees for orientation selector.
-Icons8 Colour,rotation.L.90CW.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 180 degrees for orientation selector.
-Icons8 Colour,rotation.180UD.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 180 degrees for orientation selector.
-Icons8 Colour,rotation.P.180UD.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 180 degrees for orientation selector.
-Icons8 Colour,rotation.L.180UD.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 270 degrees for orientation selector.
-Icons8 Colour,rotation.90CCW.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 270 degrees for orientation selector.
-Icons8 Colour,rotation.P.90CCW.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 270 degrees for orientation selector.
-Icons8 Colour,rotation.L.90CCW.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/ipad.svg,Rotated tablet 0 degrees for orientation selector.
+Icons8 Colour,wifi.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
+Icons8 Colour,zen.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Colour,zenpm.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/package.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Colour,zoom.column.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/resize_vertical.svg,Recoloured native outline glyph for Colour pack.
+Icons8 Colour,zoom.page.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/expand.svg,"Original SVG, renamed for icon lookup."
+Icons8 Colour,zoom.row.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/resize_horizontal.svg,Recoloured native outline glyph for Colour pack.
 Icons8 Mono,align.center.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/align_center.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,align.justify.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/align_justify.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,align.left.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/align_left.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,align.right.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/align_right.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,allow_updates.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Mono,annotations_viewer.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/comments.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,app_launcher.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/grid.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,app_menu.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/menu.svg,Converted original geometry to black outlines for missing native counterpart.
 Icons8 Mono,appbar.contrast.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/last_quarter.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,appbar.crop.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/crop.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,appbar.filebrowser.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/file.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,appbar.menu.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/menu.svg,Converted original geometry to black outlines for missing native counterpart.
 Icons8 Mono,appbar.navigation.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/gps_device.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,appbar.pagefit.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/resize_four_directions.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,appbar.pageview.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/document.svg,"Original SVG, renamed for icon lookup."
@@ -149,172 +264,226 @@ Icons8 Mono,appbar.settings.svg,https://github.com/icons8/windows-10-icons/blob/
 Icons8 Mono,appbar.textsize.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/text_height.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,appbar.tools.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/services.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,appbar.typeset.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/paragraph.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,archive.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/archive.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,avatar.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/gender_neutral_user.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,back.top.rtl.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/level_up.svg,Mirrored for right-to-left back navigation.
 Icons8 Mono,back.top.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/level_up.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,backup.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/hdd.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,battery.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/full_battery.svg,Outlined battery with distinct charge bars.
+Icons8 Mono,battery_charging.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/charge_battery.svg,Outlined battery with charging bolt.
+Icons8 Mono,battery_empty.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/empty_battery.svg,Outlined battery with distinct charge bars.
+Icons8 Mono,battery_full.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/full_battery.svg,Outlined battery with distinct charge bars.
+Icons8 Mono,battery_half.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/middle_battery.svg,Outlined battery with distinct charge bars.
+Icons8 Mono,battery_high.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/high_battery.svg,Outlined battery with distinct charge bars.
+Icons8 Mono,battery_low.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/low_battery.svg,Outlined battery with distinct charge bars.
+Icons8 Mono,book.opened.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/reading.svg,Extracted open book; removed reader and centred pages.
+Icons8 Mono,book_closed.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Removed contact symbol; added page lines and outline counterpart.
+Icons8 Mono,book_open.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/reading.svg,Extracted open book; removed reader and centred pages.
 Icons8 Mono,bookmark.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/bookmark.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,bookshelf.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into three upright books on a shelf.
+Icons8 Mono,brightness.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/idea.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,browser.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/export.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,calculator.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/calculator.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,calendar.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/planner.svg,Original colour planner; matching outlined calendar adaptation.
+Icons8 Mono,calendar_view.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/calendar.svg,Converted original geometry to black outlines for missing native counterpart.
 Icons8 Mono,cancel.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/cancel_2.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,categories.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/grid.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,check.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/checkmark.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,checkmark.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/checkmark.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,chevron.first.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/double_left.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,chevron.last.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/double_right.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,chevron.left.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/chevron_left.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,chevron.right.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/chevron_right.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,chevron.up.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/chevron_up.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,clear.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/cancel.svg,Extracted and enlarged native X; removed enclosing cancellation circle.
 Icons8 Mono,close.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/cancel.svg,Extracted and enlarged native X; removed enclosing cancellation circle.
+Icons8 Mono,close_light.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/cancel.svg,Extracted and enlarged native X; removed enclosing cancellation circle.
+Icons8 Mono,coll_back.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/level_up.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,column.one.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary page-column layout.
+Icons8 Mono,column.three.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary page-column layout.
+Icons8 Mono,column.two.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary page-column layout.
 Icons8 Mono,control.collapse.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/compress.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,control.expand.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/resize_diagonal.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,coverflow.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/stack_of_photos.svg,Simplified stacked photo frames and image details into legible outlines.
+Icons8 Mono,cpu.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/electronics.svg,Outlined original chip geometry with a finer stroke to retain pin spacing.
 Icons8 Mono,cre.render.reload.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/refresh.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,database.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/database.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,date.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/planner.svg,Original colour planner; matching outlined calendar adaptation.
+Icons8 Mono,debug.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Mono,details.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/info.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,disable.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Mono,discover.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/gps_device.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,downgrade.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/download.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,download.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/download.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,downloads.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/download.svg,"Original SVG, renamed for ZenPM lookup."
 Icons8 Mono,edit.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/pencil.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,education.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/student.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,enable.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Mono,exit.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/cancel.svg,Extracted and enlarged native X; removed enclosing cancellation circle.
+Icons8 Mono,filter.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/filter.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,folder.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/folder.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,folder_open.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/opened_folder.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,fonts.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/text_height.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,games.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/controller.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,globe.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/globe.svg,Converted original geometry to black outlines for missing native counterpart.
+Icons8 Mono,grid.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/grid.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,grid_slide.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/grid_2.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,home.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/home.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,homescreen.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/home.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,icon_packs.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/grid.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,ignore_updates.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary bell with a diagonal mute stroke; Icons8 palette and outline weight.
 Icons8 Mono,info.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/info.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,kindleforge.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Mono,large_chevron_up.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/chevron_up.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,library.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into three upright books on a shelf.
+Icons8 Mono,lightbulb.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/idea.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,lightning.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/electricity.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,lookup.ai.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/assistant.svg,Converted original geometry to black outlines for missing native counterpart.
+Icons8 Mono,lookup.dictionary.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Removed contact symbol; added page lines and outline counterpart.
+Icons8 Mono,lookup.highlight.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/pencil.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,lookup.search.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/search.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,lookup.vocab.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with letter A.
+Icons8 Mono,lookup.vocab_remove.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with minus sign.
+Icons8 Mono,lookup_ai.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/assistant.svg,Converted original geometry to black outlines for missing native counterpart.
+Icons8 Mono,lookup_dictionary.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Removed contact symbol; added page lines and outline counterpart.
+Icons8 Mono,lookup_highlight.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/pencil.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,lookup_search.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/search.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,lookup_vocab.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with letter A.
+Icons8 Mono,lookup_vocab_remove.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with minus sign.
+Icons8 Mono,media.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/film.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,more_vertical.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary vertical three-dot menu.
 Icons8 Mono,move.down.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/arrows_long_down.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,move.up.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/arrows_long_up.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,network.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/organization.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,notice-info.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/info.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,notice-question.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/question_mark.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,notice-warning.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/exclamation_mark.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,open_box.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/box.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,packages.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/box.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,patch.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
+Icons8 Mono,plugin.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/puzzle.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,plus.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/plus.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,zoom.page.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/resize_four_directions.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,zoom.row.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/resize_horizontal.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,zoom.column.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/resize_vertical.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,folder.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/folder.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,lightbulb.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/idea.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,qa_group.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/group.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,productivity.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/clipboard.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,qrcode.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/qr_code.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,quick_aa.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/assistant.svg,Converted original geometry to black outlines for missing native counterpart.
+Icons8 Mono,quick_battery.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/full_battery.svg,Outlined battery with distinct charge bars.
+Icons8 Mono,quick_bluetooth.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Bluetooth symbol.
+Icons8 Mono,quick_calibre.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into three upright books on a shelf.
+Icons8 Mono,quick_calibre_dark.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into three upright books on a shelf.
+Icons8 Mono,quick_crossword.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary crossword grid.
 Icons8 Mono,quick_exit.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/shutdown.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,quick_nightmode.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/moon.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,tab_authors.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/user_male.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,tab_collections.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/copy.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,annotations_viewer.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/comments.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,app_launcher.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/grid.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,archive.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/archive.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,avatar.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/gender_neutral_user.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,backup.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/hdd.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,calculator.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/calculator.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,database.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/database.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,education.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/student.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,folder_open.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/opened_folder.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,globe.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/globe.svg,Converted original geometry to black outlines for missing native counterpart.
-Icons8 Mono,grid_slide.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/grid_2.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,lightning.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/electricity.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,lookup_highlight.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/pencil.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,network.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/organization.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,quick_filebrowser.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/folder.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,quick_incognito.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/spy.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,quick_localsend.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/share.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,quick_lockdown.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/lock.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,quick_nightmode.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/moon.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,quick_opds.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into three upright books on a shelf.
 Icons8 Mono,quick_puzzle.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/puzzle.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,quick_restart.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/refresh.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,quick_rotate.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/rotate_right.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,quick_screenshot.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/camera.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,quick_search.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/search.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,quick_sleep.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/bed.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,quick_stats_calendar.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/planner.svg,Original colour planner; matching outlined calendar adaptation.
+Icons8 Mono,quick_stats_progress.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/bar_chart.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,quick_sync.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/refresh.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,quick_usb.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/usb.svg,Converted original geometry to black outlines for missing native counterpart.
+Icons8 Mono,quick_wifi.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
+Icons8 Mono,quick_zlib.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into three upright books on a shelf.
+Icons8 Mono,quicksettings.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary sliders using the Icons8 palette and outline weight.
+Icons8 Mono,random_document.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary shuffle arrows.
+Icons8 Mono,recent.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/clock.svg,Converted original geometry to black outlines for missing native counterpart.
 Icons8 Mono,records.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/tasks.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,reference.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Removed contact symbol; added page lines and outline counterpart.
+Icons8 Mono,refresh.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/refresh.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,reinstall.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/refresh.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,remove.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/minus.svg,"Original SVG, renamed for ZenPM removal lookup."
+Icons8 Mono,remove_queue.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/minus.svg,"Original SVG, renamed for ZenPM removal lookup."
 Icons8 Mono,restart.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/refresh.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,rotation.0UR.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 0 degrees for orientation selector.
+Icons8 Mono,rotation.180UD.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 180 degrees for orientation selector.
+Icons8 Mono,rotation.90CCW.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 270 degrees for orientation selector.
+Icons8 Mono,rotation.90CW.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 90 degrees for orientation selector.
+Icons8 Mono,rotation.L.0UR.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 90 degrees for orientation selector.
+Icons8 Mono,rotation.L.180UD.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 270 degrees for orientation selector.
+Icons8 Mono,rotation.L.90CCW.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 0 degrees for orientation selector.
+Icons8 Mono,rotation.L.90CW.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 180 degrees for orientation selector.
+Icons8 Mono,rotation.P.0UR.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 0 degrees for orientation selector.
+Icons8 Mono,rotation.P.180UD.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 180 degrees for orientation selector.
+Icons8 Mono,rotation.P.90CCW.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 270 degrees for orientation selector.
+Icons8 Mono,rotation.P.90CW.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 90 degrees for orientation selector.
+Icons8 Mono,scan_plugins.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/barcode.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,screensaver.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/bed.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,search.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/search.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,settings.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/settings.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,settings_advanced.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary sliders using the Icons8 palette and outline weight.
+Icons8 Mono,settings_bug.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
 Icons8 Mono,share.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/share.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,skip_left.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/double_left.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,skip_right.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/double_right.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,sleep.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/bed.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,sort.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/generic_sorting.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,sort_asc.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/generic_sorting.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,sort_desc.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/generic_sorting_2.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,sources.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/organization.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,star.empty.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted star; outlined at full icon size.
+Icons8 Mono,star.filled.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted and enlarged star.
+Icons8 Mono,star.full.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted and enlarged star.
+Icons8 Mono,star.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted star; outlined at full icon size.
+Icons8 Mono,star.white.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted star with white fill.
+Icons8 Mono,sync_off.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary bell with a diagonal mute stroke; Icons8 palette and outline weight.
+Icons8 Mono,tab_authors.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/user_male.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,tab_books.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into three upright books on a shelf.
+Icons8 Mono,tab_collections.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/copy.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,tab_continue.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/reading.svg,Extracted open book; removed reader and centred pages.
+Icons8 Mono,tab_exit.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/shutdown.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,tab_favorites.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted star; outlined at full icon size.
+Icons8 Mono,tab_filebrowser.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/file.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,tab_fm_settings.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/file.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,tab_folder.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/folder.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,tab_history.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/overtime.svg,Converted original geometry to black outlines for missing native counterpart.
+Icons8 Mono,tab_left.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/chevron_left.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,tab_manga.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with comic panels.
 Icons8 Mono,tab_news.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/news.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,tab_right.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/chevron_right.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,tab_series.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into a horizontal stack of three books.
+Icons8 Mono,tab_stats.2.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/bar_chart.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,tab_stats.old.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/bar_chart.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,tab_stats.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/bar_chart.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,tab_tags.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/price_tag.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,tab_to_be_read.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/bookmark.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,tab_tools.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/services.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,tab_translate.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/translation.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,tab_vocab.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with letter A.
 Icons8 Mono,tablet.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,"Original SVG, renamed for icon lookup."
 Icons8 Mono,terminal.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/command_line.svg,Outlined original window; simplified prompt to >_ for small-size legibility.
-Icons8 Mono,toc.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/list.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,appbar.menu.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/menu.svg,Converted original geometry to black outlines for missing native counterpart.
-Icons8 Mono,recent.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/clock.svg,Converted original geometry to black outlines for missing native counterpart.
-Icons8 Mono,tab_history.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/overtime.svg,Converted original geometry to black outlines for missing native counterpart.
-Icons8 Mono,calendar_view.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/calendar.svg,Converted original geometry to black outlines for missing native counterpart.
-Icons8 Mono,coverflow.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/stack_of_photos.svg,Simplified stacked photo frames and image details into legible outlines.
-Icons8 Mono,cpu.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/electronics.svg,Outlined original chip geometry with a finer stroke to retain pin spacing.
-Icons8 Mono,quick_aa.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/assistant.svg,Converted original geometry to black outlines for missing native counterpart.
+Icons8 Mono,theme.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/brush.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,time.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/clock.svg,Converted original geometry to black outlines for missing native counterpart.
 Icons8 Mono,timer.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/alarm_clock.svg,Converted original geometry to black outlines for missing native counterpart.
+Icons8 Mono,title.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/text_height.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,toc.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/list.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,uninstall.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/trash.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,unverified.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/exclamation_mark.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,update.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/refresh.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,upgrade.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/upload.svg,"Original SVG, renamed for ZenPM lookup."
 Icons8 Mono,usb.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/usb.svg,Converted original geometry to black outlines for missing native counterpart.
-Icons8 Mono,book.opened.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/reading.svg,Extracted open book; removed reader and centred pages.
-Icons8 Mono,book_closed.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Removed contact symbol; added page lines and outline counterpart.
-Icons8 Mono,library.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into three upright books on a shelf.
-Icons8 Mono,tab_series.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book covers into a horizontal stack of three books.
-Icons8 Mono,quicksettings.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary sliders using the Icons8 palette and outline weight.
-Icons8 Mono,quick_stats_calendar.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/planner.svg,Original colour planner; matching outlined calendar adaptation.
-Icons8 Mono,tab_manga.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with comic panels.
-Icons8 Mono,tab_vocab.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with letter A.
-Icons8 Mono,lookup_vocab_remove.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/address_book.svg,Adapted book cover with minus sign.
-Icons8 Mono,star.empty.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted star; outlined at full icon size.
-Icons8 Mono,star.full.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted and enlarged star.
-Icons8 Mono,star.white.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/rating.svg,Extracted star with white fill.
-Icons8 Mono,battery_empty.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/empty_battery.svg,Outlined battery with distinct charge bars.
-Icons8 Mono,battery_low.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/low_battery.svg,Outlined battery with distinct charge bars.
-Icons8 Mono,battery_half.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/middle_battery.svg,Outlined battery with distinct charge bars.
-Icons8 Mono,battery_high.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/high_battery.svg,Outlined battery with distinct charge bars.
-Icons8 Mono,battery_full.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/full_battery.svg,Outlined battery with distinct charge bars.
-Icons8 Mono,battery_charging.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/charge_battery.svg,Outlined battery with charging bolt.
+Icons8 Mono,utility.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/services.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,verified.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/checked_2.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,wallabag.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/bookmark.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,wallpaper.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/picture.svg,"Original SVG, renamed for ZenPM lookup."
 Icons8 Mono,wifi.open.0.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
+Icons8 Mono,wifi.open.100.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
 Icons8 Mono,wifi.open.25.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
 Icons8 Mono,wifi.open.50.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
 Icons8 Mono,wifi.open.75.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
-Icons8 Mono,wifi.open.100.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
 Icons8 Mono,wifi.secure.0.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
+Icons8 Mono,wifi.secure.100.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
 Icons8 Mono,wifi.secure.25.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
 Icons8 Mono,wifi.secure.50.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
 Icons8 Mono,wifi.secure.75.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
-Icons8 Mono,wifi.secure.100.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
-Icons8 Mono,column.one.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary page-column layout.
-Icons8 Mono,column.two.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary page-column layout.
-Icons8 Mono,column.three.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary page-column layout.
-Icons8 Mono,more_vertical.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary vertical three-dot menu.
-Icons8 Mono,tab_tags.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/price_tag.svg,"Original SVG, renamed for icon lookup."
-Icons8 Mono,random_document.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary shuffle arrows.
-Icons8 Mono,quick_bluetooth.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Bluetooth symbol.
-Icons8 Mono,quick_crossword.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary crossword grid.
-Icons8 Mono,back.top.rtl.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/level_up.svg,Mirrored for right-to-left back navigation.
-Icons8 Mono,rotation.0UR.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 0 degrees for orientation selector.
-Icons8 Mono,rotation.P.0UR.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 0 degrees for orientation selector.
-Icons8 Mono,rotation.L.0UR.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 90 degrees for orientation selector.
-Icons8 Mono,rotation.90CW.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 90 degrees for orientation selector.
-Icons8 Mono,rotation.P.90CW.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 90 degrees for orientation selector.
-Icons8 Mono,rotation.L.90CW.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 180 degrees for orientation selector.
-Icons8 Mono,rotation.180UD.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 180 degrees for orientation selector.
-Icons8 Mono,rotation.P.180UD.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 180 degrees for orientation selector.
-Icons8 Mono,rotation.L.180UD.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 270 degrees for orientation selector.
-Icons8 Mono,rotation.90CCW.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 270 degrees for orientation selector.
-Icons8 Mono,rotation.P.90CCW.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 270 degrees for orientation selector.
-Icons8 Mono,rotation.L.90CCW.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/ipad.svg,Rotated tablet 0 degrees for orientation selector.
-Icons8 Mono,tab_translate.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/translation.svg,"Original SVG, renamed for icon lookup."
-Icons8 Colour,allow_updates.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
-Icons8 Colour,browser.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/external.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Colour,debug.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
-Icons8 Colour,disable.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
-Icons8 Colour,download.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/download.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Colour,enable.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/start.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Colour,filter.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/empty_filter.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Colour,games.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/controller.svg,Recoloured native Windows 10 outline for the Colour pack; renamed for ZenPM lookup.
-Icons8 Colour,ignore_updates.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary bell with a diagonal mute stroke; Icons8 palette and outline weight.
-Icons8 Colour,kindleforge.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
-Icons8 Colour,media.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/clapperboard.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Colour,packages.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/package.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Colour,patch.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
-Icons8 Colour,productivity.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/todo_list.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Colour,qrcode.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/qr_code.svg,Recoloured native Windows 10 outline for the Colour pack; renamed for ZenPM lookup.
-Icons8 Colour,scan_plugins.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/inspection.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Colour,sort.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/generic_sorting_asc.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Colour,sort_desc.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/generic_sorting_desc.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Colour,theme.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/brush.svg,Recoloured native Windows 10 outline for the Colour pack; renamed for ZenPM lookup.
-Icons8 Colour,uninstall.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/full_trash.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Colour,upgrade.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/upload.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Colour,verified.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/approval.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Colour,wallpaper.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/gallery.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Colour,zen.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
-Icons8 Mono,allow_updates.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
-Icons8 Mono,browser.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/export.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Mono,debug.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
-Icons8 Mono,disable.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
-Icons8 Mono,download.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/download.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Mono,enable.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
-Icons8 Mono,filter.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/filter.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Mono,games.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/controller.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Mono,ignore_updates.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary bell with a diagonal mute stroke; Icons8 palette and outline weight.
-Icons8 Mono,kindleforge.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
-Icons8 Mono,media.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/film.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Mono,packages.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/box.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Mono,patch.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
-Icons8 Mono,productivity.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/clipboard.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Mono,qrcode.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/qr_code.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Mono,scan_plugins.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/barcode.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Mono,sort.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/generic_sorting.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Mono,sort_desc.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/generic_sorting_2.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Mono,theme.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/brush.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Mono,uninstall.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/trash.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Mono,upgrade.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/upload.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Mono,verified.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/checked_2.svg,"Original SVG, renamed for ZenPM lookup."
-Icons8 Mono,wallpaper.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/picture.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,wifi.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary Wi-Fi arcs with signal-level and security variants.
 Icons8 Mono,zen.svg,https://github.com/xZenLabs/icons8-icon-pack,ZenLabs supplementary ZenPM symbol using the Icons8 palette and outline weight.
-Icons8 Colour,remove.svg,https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/minus.svg,"Original SVG, renamed for ZenPM removal lookup."
-Icons8 Mono,remove.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/minus.svg,"Original SVG, renamed for ZenPM removal lookup."
+Icons8 Mono,zenpm.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/box.svg,"Original SVG, renamed for ZenPM lookup."
+Icons8 Mono,zoom.column.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/resize_vertical.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,zoom.page.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/resize_four_directions.svg,"Original SVG, renamed for icon lookup."
+Icons8 Mono,zoom.row.svg,https://github.com/icons8/windows-10-icons/blob/bb4b59b3cf8fd21b76ea21a45d4a23b497ef3df0/svg/production/resize_horizontal.svg,"Original SVG, renamed for icon lookup."
